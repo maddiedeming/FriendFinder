@@ -9,6 +9,7 @@ In this activity, you'll build a compatibility-based "FriendFinder" application-
 ### Install Locally
 ```
 git clone https://github.com/maddiedeming/FriendFinder.git
+cd FriendFinder/
 npm install
 ```
 ### Command
